@@ -1,0 +1,148 @@
+
+.body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #05073C;
+    font-family: Inter;
+
+}
+
+.container {
+    margin: 0 auto;
+    width: 1320px;
+    height: 940.63px;
+    top: 178px;
+    left: 300px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+nav>h3 {
+    width: 269.54px;
+    height: 45px;
+    top: 5px;
+    left: 15px;
+    font-family: Inter;
+    font-size: 29.41px;
+    font-weight: 700;
+    line-height: 45px;
+    text-align: left;
+    color: #05073C;
+
+
+}
+
+nav p {
+    width: 44.79px;
+    height: 28.13px;
+    top: 21.88px;
+    left: 1234.41px;
+    font-family: Inter;
+    font-size: 14.3px;
+    font-weight: 400;
+    line-height: 28.13px;
+    color: #05073C;
+
+}
+
+div.galary {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+
+div.card {
+    padding: 10px;
+    margin: 0 auto;
+    width: 280px;
+    height: 370px;
+    top: 95px;
+    left: 15px;
+    gap: 10px;
+    border-radius: 12px 12px 12px 12px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    /* background-color: blue; */
+    border: 1px solid #E7E6E6 ;
+    margin-top: 30px;
+}
+
+
+div.card>img {
+    width: 278px;
+    height: 198.56px;
+    gap: 0px;
+    border-radius: 12px 0px 0px 0px;
+    opacity: 0px;
+
+}
+
+div.card p {
+    margin: 0;
+    padding: 0;
+    width: 75.92px;
+    height: 24.38px;
+    top: 219.56px;
+    margin-left: 42px;
+    gap: 0px;
+    opacity: 0px;
+    font-size: 12.29px;
+    font-weight: 400;
+    line-height: 24.38px;
+    /* text-align: left; */
+
+}
+
+div.card>h5 {
+    margin: 0;
+    padding: 0;
+    width: 249.4px;
+    height: 45px;
+    top: 249.94px;
+    left: 21px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Inter;
+    font-size: 15.88px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: left;
+
+}
+
+div.card>h6 {
+    margin: 0;
+    padding: 0;
+    width: 54.59px;
+    height: 17px;
+    top: 304.94px;
+    margin-left: 101px;
+    opacity: 0px;
+    font-size: 12.49px;
+    font-weight: 400;
+    /* line-height: 24.38px; */
+    /* text-align: center; */
+}
+
+div.card>footer {
+    /* margin: 0;
+    padding: 0; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 258px;
+height: 41px;
+top: 336.31px;
+left: 21px;
+padding: 11px 0px 0px 0px;
+gap: 0px;
+border: 1px 0px 0px 0px;
+/* opacity: 0px; */
+
+}
